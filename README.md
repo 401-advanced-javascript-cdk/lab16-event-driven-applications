@@ -3,7 +3,7 @@ Implements Access control through user roles and capabilities
 ### Author: Chris Kozlowski
 
 ### Links and Resources
-* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab14-access-control/pull/1)
+* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab16-event-driven-applications/pull/1)
 <!-- * [Travis]( --- ) -->
 <!-- * [Heroku Deployment]( --- ) -->
 
